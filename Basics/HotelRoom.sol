@@ -14,6 +14,7 @@ contract HotelRoom{
     event Occupy (address _customer , uint _value);
     
     enum RoomStatus{vacant,Occupied}
+    
     RoomStatus public cuurentStatus;
 
     address payable  public  owner ;

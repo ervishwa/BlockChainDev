@@ -194,3 +194,14 @@ contract OnlineStore {
 }
 
 ---------------------
+
+in Solidity, your contract can inherit from multiple contracts 
+
+syntax 
+
+contract SatoshiNakamoto is NickSzabo, HalFinney {
+  // Omg, the secrets of the universe revealed!
+}
+
+----------------------
+

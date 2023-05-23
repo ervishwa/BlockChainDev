@@ -1,13 +1,13 @@
 // SPDX-License-Identifier: MIT
 pragma solidity ^0.8.0;
 
-topics learned(
-etherpayment
-modifiers
-visiblity
-events
-enums
-)
+// topics learned(
+// etherpayment
+// modifiers
+// visiblity
+// events
+// enums
+// )
 
 contract HotelRoom{
 
